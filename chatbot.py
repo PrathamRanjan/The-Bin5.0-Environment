@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output,State
 # Assuming you have imported 'app' from app.py which is the Dash instance
 from app import app
 import requests
-api_key= "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"
+api_key= "NOPE"
 
 # Define the layout for the chatbot page
 layout = html.Div([
