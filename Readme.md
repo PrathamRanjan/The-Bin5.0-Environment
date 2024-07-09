@@ -24,3 +24,8 @@ The Bin5.0 Website leverages Singapore Government APIs to help people locate the
 
 <img width="200" alt="Screenshot 2024-07-10 at 1 47 03 AM" src="https://github.com/PrathamRanjan/The-Bin5.0-Environment/assets/78290316/c935ad03-a291-489c-a064-65aee049c510">
 
+## Contributors 
+@PrathamRanjan Full Stack Developer and Project Manager 
+@Kaustav Full Stack Developer and Hardware Developer
+@Amit Front End Developer and Hardware Developer
+@Aditya Full Stack Developer
